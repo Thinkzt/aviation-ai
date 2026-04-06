@@ -1,0 +1,24 @@
+{
+  "name": "aviation-ai-mobile",
+  "version": "0.1.0",
+  "description": "AviationAI移动端 - 航务监控掌中宝",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.3.0",
+    "@capacitor/cli": "^8.3.0",
+    "@capacitor/core": "^8.3.0",
+    "amfe-flexible": "^2.2.1",
+    "axios": "^1.6.0",
+    "pinia": "^2.1.0",
+    "vue": "^3.4.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.0",
+    "sass": "^1.69.0",
+    "vite": "^5.0.0"
+  }
+}

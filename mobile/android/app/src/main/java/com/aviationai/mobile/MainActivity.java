@@ -1,0 +1,5 @@
+package com.aviationai.mobile;
+
+import com.getcapacitor.BridgeActivity;
+
+public class MainActivity extends BridgeActivity {}
